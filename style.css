@@ -54,6 +54,7 @@ li {
     display: inline-block;
     padding-right: 50px;
     font-size: 25px;
+    color: black;
     
     
     
@@ -71,13 +72,13 @@ ul {
 }
 
 .c:hover {
-    background-color: green;
+    background-color: #5d5e5e;
 }
 
 .a:hover {
-    background-color: orange;
+    background-color: #5d5e5e;
 }
 
 .h:hover {
-    background-color: red;
+    background-color:#5d5e5e;
 }
